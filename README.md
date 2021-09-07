@@ -1,7 +1,7 @@
 # PySpark-Neural-Network
-Pyspark implementation of Shallow Neural Network from scratch using MNIST
-Please look at the related medium article https://medium.com/@martin.marvin/pyspark-neural-network-from-scratch-8a19ebad3904
+Pyspark implementation of Shallow Neural Network from scratch using MNIST.
 
+Please look at the related medium article https://towardsdatascience.com/pyspark-neural-network-from-scratch-8a19ebad3904
 ## Summary
 The goal of this project is to use Spark to build a 3 layer Neural Network from Scratch, using my own mathematical formulas to solve an Image classification Task. I will use the very famous MNIST dataset http://yann.lecun.com/exdb/mnist/.
 
